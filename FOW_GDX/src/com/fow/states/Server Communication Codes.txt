@@ -1,0 +1,4 @@
+Server Communication Codes:
+
+	00
+	01
