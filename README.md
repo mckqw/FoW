@@ -13,6 +13,7 @@ The project still in alhpa and has many undeveloped features.
 All of the pixel art, excluding the login background, was draw myself "by hand" or mouse I suppose. :P
 
 **Features to develop:**
+
 Game Client:
  - Implment the in-game menu UI include the following features:
   - Move Counter
