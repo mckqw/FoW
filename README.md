@@ -10,7 +10,7 @@ The project is written in Java 8 with the use of the graphics [LibGdx](https://g
 
 The project still in alhpa and has many undeveloped features.
 
-All of the pixel art, excluding the login background and gunner sprite, was draw myself "by hand" or mouse I suppose. :P
+All of the pixel art, excluding the login background and gunner sprite, was drawn myself "by hand" or mouse I suppose. :P
 
 **Features to develop:**
 
