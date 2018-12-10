@@ -1,6 +1,6 @@
-# FoW
+# Fog Of War
 
-This Project is intened to be an online chess-like game called **Fog of War**.
+This Project is an online chess-like game called **Fog of War**.
 
 There are two clients, a server and game client. The game client communicate with the server for matchmaking, game instanciation, account creation and verification and game to game communication.
 
